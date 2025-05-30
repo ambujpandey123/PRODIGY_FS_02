@@ -43,6 +43,19 @@ This system is designed to manage employee information with a focus on security,
  - 📐 Frontend responsiveness and layout
  - 🛡️ Secure access management for admins
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./public/screenshorts/home.png)
+### 🏠 Add Employee
+![Add Employee Page](./public/screenshorts/addemployee.png)
+### 🏠 Update Employee
+![Update Employee Page](./public/screenshorts/updatemployee.png)
+### 🏠 Login Page
+![Login Page](public/screenshorts/login.png)
+### 🏠 Signup Page
+![Signup Page](./public/screenshorts/signup.png)
+
 ## ⚙️ How to Install & Run the Employee Management System
 
 Follow the steps below to install and run the **Employee Management System** project built with **Next.js**, **Node.js**, **MySQL**, and **JavaScript**.
